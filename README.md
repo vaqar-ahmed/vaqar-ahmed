@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Laravel
-- 🌱 I’m currently learning @reactjs
+- 🔭 I’m currently working on @reactjs
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on PHP/JS opensource
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Javascript, PHP
