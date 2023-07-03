@@ -12,4 +12,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqar3&show_icons=true&theme=radical)
 
+## MERN Audio App
+
+[github.com/waqar3/audio-app](https://github.com/waqar3/audio-app/)
+
+![MERN Audio App](ezgif-1-ea3d0a642c.gif)
+
 
