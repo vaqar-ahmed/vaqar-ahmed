@@ -8,9 +8,9 @@
 - 💬 Ask me about Javascript, LAMP or MERN stacks
 - 📫 How to reach me: email, twitter: @waq_r
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqar3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaqar-ahmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqar3&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaqar-ahmed&show_icons=true&theme=radical)
 
 ## MERN Audio App
 
