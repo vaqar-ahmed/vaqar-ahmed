@@ -11,7 +11,8 @@
 
 ![React.js. Node.js. Express and MongoDB application demo](https://github.com/waq-r/waq-r/blob/main/ezgif-1-ea3d0a642c.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waq-r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waq-r&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waq-r&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waq-r&repo=Python-Arcade&theme=dark)](https://github.com/waq-r/Python-Arcade)
